@@ -12,10 +12,12 @@ The data structures necessary to support link submissions and commenting on Redd
 
 To get a local copy of the repository please run the following commands on your terminal:
 
+```
 $ git clone https://github.com/CalyCherkaoui/micro-reddit.git
 $ cd micro-reddit
 $ bundle install
 $ yarn install --check-files
+```
 
 # Authors
 
@@ -24,6 +26,12 @@ $ yarn install --check-files
 - Github: [@asiimwedismas](https://github.com/asiimwedismas)
 - Twitter: [@asiimwedismas](https://twitter.com/asiimwedismas)
 - Linkedin: [asiimwedismas](https://www.linkedin.com/in/asiimwedismas/)
+
+👤 **Houda Cherkaoui**
+
+- Github: [@CalyCherkaoui](https://github.com/CalyCherkaoui)
+- Twitter: [@Houda59579688](https://twitter.com/Houda59579688)
+- Linkedin: [Houda-Cherkaoui](https://www.linkedin.com/in/houda-cherkaoui-64106395/)
 
 ## 🤝 Contributing
 
