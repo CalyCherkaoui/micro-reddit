@@ -1,7 +1,9 @@
+# frozen_string_literal: true
+
 class Post < ApplicationRecord
   belongs_to :user
   has_many :comments
 
-  validates :title, presence: true, length: { minimum: 5 }, too_short: 'Get serious!!!'
-  validates :body, presence: true, length: { minimum: 5 }, too_short: 'Come on!!! This is toooooo short'
+  validates :title, presence: true, length: { minimum: 5 }
+  validates :body, presence: true, length: { minimum: 5 }
 end
